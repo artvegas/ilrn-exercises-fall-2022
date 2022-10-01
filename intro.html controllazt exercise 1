@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<title>My favorite fruit</title>
+
+    </head>
+    <body>
+        <h1>My favorite fruit</h1>
+        <p>My favorite fruit is a lemon because lemons are sour and I like sour foods.</p>
+        <a href="https://en.wikipedia.org/wiki/Lemon">Learn more</a>
+        <img src="https://cdn.britannica.com/84/188484-050-F27B0049/lemons-tree.jpg" alt="">
+    </body>
+</html>
